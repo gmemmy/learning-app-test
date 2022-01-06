@@ -7,7 +7,7 @@ This is an interactive learning app that requires users to guess correct word tr
 * [React Native Animatable](https://github.com/oblador/react-native-animatable) - Declarative transitions and animations for React Native.
 * [Expo](https://expo.dev/) - is a framework and a platform for universal React applications. It is a set of tools and services built around React Native and native platforms that help you develop, build, deploy, and quickly iterate on iOS, Android, and web apps from the same JavaScript/TypeScript codebase.
 
-**App is live on expo :** https://expo.dev/@gmemmy/snapchat-shared-transitions <br/>
+**App is live on expo :** https://expo.dev/@gmemmy/learning-app-test <br/>
 
 ## Screenshots
 <img width="477" alt="Screenshot 2022-01-06 at 18 59 28" src="https://user-images.githubusercontent.com/36506774/148429929-315e4848-acb6-4af3-919f-0546e01b7687.png">
